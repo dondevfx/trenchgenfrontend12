@@ -59,7 +59,7 @@ export default function App() {
               className="bg-green-700 hover:bg-green-600 text-white px-4 py-2 rounded"
               onClick={() => setShowModal(true)}
             >
-              Sign Up
+              Change Name
             </button>
           </div>
         </header>
