@@ -52,7 +52,7 @@ export default function App() {
     <div className="h-screen w-screen bg-black text-green-400 font-mono flex items-center justify-center">
       <div className="w-full max-w-4xl h-full p-6 flex flex-col">
         <header className="flex items-center justify-between mb-4">
-          <h1 className="text-4xl font-extrabold text-green-300">TrenchChat</h1>
+          <h1 className="text-4xl font-extrabold text-green-300">Degens Anonymous</h1>
           <div className="flex items-center space-x-4">
             <span className="text-sm text-gray-500">Connected as <span className="text-yellow-400 font-bold">{alias}</span></span>
             <button
