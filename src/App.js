@@ -2,7 +2,7 @@ import { useEffect, useState, useRef } from 'react';
 import { io } from 'socket.io-client';
 import { v4 as uuidv4 } from 'uuid';
 
-const socket = io('https://trenchchat-backend.onrender.com');
+const socket = io('https://trenchchat.onrender.com');
 
 export default function App() {
   const [messages, setMessages] = useState([]);
